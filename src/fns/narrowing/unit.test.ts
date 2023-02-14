@@ -1,4 +1,4 @@
-import { forceNarrowString, forceNarrowBoolean, forceNarrowNumber, narrow } from './index'
+import { forceNarrowString, forceNarrowBoolean, forceNarrowNumber } from './index'
 
 describe('narrowing', () => {
   it('forceNarrowString', () => {

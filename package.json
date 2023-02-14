@@ -1,9 +1,13 @@
 {
   "name": "@fabiochiquezi/ts-utils",
   "version": "1.0.0",
-  "description": "My utils typescript library",
+  "description": "Some simple functionalities to help the work with TS",
   "repository": "https://github.com/fabiochiquezi/Chz-Library-TSUtils",
-  "keywords": ["ts-utils", "ts-library" ],
+  "homepage": "https://www.chiquezi.com/libraries/ts-utils",
+  "keywords": [
+    "ts-utils",
+    "ts-library"
+  ],
   "main": "dist/index.js",
   "author": "Fábio Chiquezi <fabiochiquezi@gmail.com",
   "license": "MIT",
